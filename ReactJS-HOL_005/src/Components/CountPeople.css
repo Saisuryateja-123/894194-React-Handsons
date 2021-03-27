@@ -1,0 +1,13 @@
+.login,.exit{
+    display: inline-block;
+    text-align: center;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    
+}
+.exit{
+    margin-left: 10%;
+}
